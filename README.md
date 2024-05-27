@@ -1,6 +1,6 @@
 # AffordMed Task1
 
-create a env variable with database url as
+create a env variable in backend with database url as 
 
 
 ```
