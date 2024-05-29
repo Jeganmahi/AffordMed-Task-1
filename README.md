@@ -12,3 +12,6 @@ ensure the db name as
 ```
 afford
 ```
+# Integrating the open weather api openweathermap
+
+in the weather.jsx you can see that
